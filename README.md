@@ -1,6 +1,6 @@
 ## HTML Cheatsheet ##
 
-*** HTML Cheatsheet ***
+***HTML Cheatsheet***
 
 ## Headings
 
