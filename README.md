@@ -1,7 +1,10 @@
 ***~~HTML Cheatsheet~~***
 ===================
 
-_우왕 신기하당_ <p style="font-size:48px">&#128516;***
+_우왕 신기하당_ 
+```html
+<p style="font-size:48px">&#128516
+```
 
 ## Headings
 
