@@ -1,4 +1,4 @@
-## HTML Cheatsheet ##
+**HTML Cheatsheet**
 
 ***HTML Cheatsheet***
 
